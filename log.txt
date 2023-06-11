@@ -1,0 +1,35 @@
+6/6/2023 - Liam - 4hrs
+Extracted most significant statistical features using F-value analysis.
+
+6/6/2023 - Frank - 4hrs
+Created Logistic model predict and fit based on hyperparameters.
+
+6/6/2023 - Hark - 4hrs
+Worked on PCA component visualization for graphing datapoints.
+
+6/6/2023 - Zhi - 4hrs
+
+
+6/10/2023 - Liam - 4hrs
+
+
+6/10/2023 - Frank - 4hrs
+
+
+6/10/2023 - Hark - 4hrs
+
+
+6/10/2023 - Zhi - 4hrs
+
+
+6/11/2023 - Liam - 4hrs
+
+
+6/11/2023 - Frank - 4hrs
+
+
+6/11/2023 - Hark - 4hrs
+
+
+6/11/2023 - Zhi - 4hrs
+
