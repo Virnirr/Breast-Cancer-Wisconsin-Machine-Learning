@@ -8,10 +8,10 @@ Created Logistic model predict and fit based on hyperparameters.
 Worked on PCA component visualization for graphing datapoints.
 
 6/6/2023 - Zhi - 4hrs
-
+Worked on splitting data into training/testing, creating new features using the extracted features
 
 6/10/2023 - Liam - 4hrs
-
+Created Slides and helped fix bugs issues
 
 6/10/2023 - Frank - 4hrs
 Created graphs and data for the confusion matrices for logistic and neural models.
@@ -21,10 +21,10 @@ Normalized the data and visualized the correlation of features and relationship 
 and precision for both models.
 
 6/10/2023 - Zhi - 4hrs
-
+Created Neural Network binary classification model
 
 6/11/2023 - Liam - 4hrs
-
+Helped to finalized everything
 
 6/11/2023 - Frank - 4hrs
 Created histograms for top 15 features and worked on presetation
@@ -33,4 +33,4 @@ Created histograms for top 15 features and worked on presetation
 Worked on the group presentation slides.
 
 6/11/2023 - Zhi - 4hrs
-
+Helped to finialize google slides, reports, and fixed issues and bugs
