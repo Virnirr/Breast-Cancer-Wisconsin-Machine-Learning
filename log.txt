@@ -14,10 +14,11 @@ Worked on PCA component visualization for graphing datapoints.
 
 
 6/10/2023 - Frank - 4hrs
-
+Created graphs and data for the confusion matrices for logistic and neural models.
 
 6/10/2023 - Hark - 4hrs
-
+Normalized the data and visualized the correlation of features and relationship between recall
+and precision for both models.
 
 6/10/2023 - Zhi - 4hrs
 
@@ -26,10 +27,10 @@ Worked on PCA component visualization for graphing datapoints.
 
 
 6/11/2023 - Frank - 4hrs
-
+Created histograms for top 15 features and worked on presetation
 
 6/11/2023 - Hark - 4hrs
-
+Worked on the group presentation slides.
 
 6/11/2023 - Zhi - 4hrs
 
